@@ -68,6 +68,6 @@ https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Comm
 
 * 6.2 Make the "Add" button work. Once clicked, it must a create a new record in database 
 
-* 6.3 Make the "Search" button work. Once a name is typed, it must display the patient/s found
+* 6.3 Make the "Search" button work. Once a name is typed, it must update the list of patients in the table 
 
  
