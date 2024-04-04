@@ -1,0 +1,3 @@
+C:\anthony\projects\repositories\reactspa\CMH.ExerciseProject\cmh.exerciseproject.client\obj\Debug\cmh.exerciseproject.client.esproj.CoreCompileInputs.cache
+C:\Users\OloresA\Downloads\CMH.ExerciseProject\CMH.ExerciseProject - Copy\cmh.exerciseproject.client\obj\Debug\cmh.exerciseproject.client.esproj.CoreCompileInputs.cache
+C:\Users\OloresA\Downloads\CMH.ExerciseProject\CMH.ExerciseProject_V2\CMH.ExerciseProject - Copy\cmh.exerciseproject.client\obj\Debug\cmh.exerciseproject.client.esproj.CoreCompileInputs.cache
